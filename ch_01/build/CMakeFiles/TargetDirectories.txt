@@ -1,0 +1,4 @@
+/home/avatar/Code/HjjDemo/ch_01/build/CMakeFiles/rebuild_cache.dir
+/home/avatar/Code/HjjDemo/ch_01/build/CMakeFiles/edit_cache.dir
+/home/avatar/Code/HjjDemo/ch_01/build/CMakeFiles/ch_01.dir
+/home/avatar/Code/HjjDemo/ch_01/build/CMakeFiles/ch_01_autogen.dir

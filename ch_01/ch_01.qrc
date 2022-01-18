@@ -1,0 +1,8 @@
+<RCC>
+<qresource prefix="/">
+<file>res/qml/main.qml</file>
+<file>res/Images/pitch_boat.png</file>
+<file>res/Images/pitch_bg.png</file>
+</qresource>
+</RCC>
+
