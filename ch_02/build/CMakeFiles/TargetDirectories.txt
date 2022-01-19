@@ -1,4 +1,0 @@
-/home/avatar/Code/HjjDemo/learngit/ch_02/build/CMakeFiles/rebuild_cache.dir
-/home/avatar/Code/HjjDemo/learngit/ch_02/build/CMakeFiles/edit_cache.dir
-/home/avatar/Code/HjjDemo/learngit/ch_02/build/CMakeFiles/ch_02.dir
-/home/avatar/Code/HjjDemo/learngit/ch_02/build/CMakeFiles/ch_02_autogen.dir

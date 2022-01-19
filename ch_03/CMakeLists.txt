@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(ch_02 LANGUAGES CXX)
+project(ch_03 LANGUAGES CXX)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
@@ -14,15 +14,13 @@ find_package(Qt6 COMPONENTS Gui)
 find_package(Qt6 COMPONENTS Qml)
 find_package(Qt6 COMPONENTS Quick)
 
-qt_add_executable(ch_02
+qt_add_executable(ch_03
 	main.cpp
-	Test.h
-	Test.cpp
-	ch_02.qrc
+	ch_03.qrc
 	res/qml/main.qml
 	)
 
-target_link_libraries(ch_02 PUBLIC
+target_link_libraries(ch_03 PUBLIC
 	Qt::Core
 	Qt::Gui
 	Qt::Qml

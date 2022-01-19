@@ -1,6 +1,7 @@
 import QtQuick 2.0
-Image {
+Item {
 	id: root
+	width: 200; height: 200
 	Image {
 		id: pole
 		anchors.horizontalCenter: parent.horizontalCenter
@@ -20,4 +21,11 @@ Image {
 			}
 		}
 	}
+	MouseArea {
+		anchors.fill: parent
+		onClicked: wheel.rotation -= 90
+	}	
+
+
+
 }
