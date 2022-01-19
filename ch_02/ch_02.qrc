@@ -1,0 +1,7 @@
+<RCC>
+<qresource prefix="/">
+<file>res/qml/main.qml</file>
+<file>res/Images/soccer_ball.png</file>
+</qresource>
+</RCC>
+

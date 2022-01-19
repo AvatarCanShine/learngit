@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avatar/Code/HjjDemo/learngit/ch_02/build/ch_02_autogen/EWIEGA46WW/qrc_ch_02.cpp
+
