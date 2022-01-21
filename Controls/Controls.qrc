@@ -1,0 +1,7 @@
+<RCC>
+<qresource prefix="/">
+<file>res/qml/main.qml</file>
+<file>res/qml/HTabBar.qml</file>
+<file>res/qml/HSwipeView.qml</file>
+</qresource>
+</RCC>
