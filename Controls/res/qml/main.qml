@@ -6,7 +6,9 @@ ApplicationWindow {
 	visible: true
 	width: 1280; height: 720
 	
-	HDelayButton { anchors.fill: parent }
+
+	HDial { anchors.fill: parent }
+	//HDelayButton { anchors.fill: parent }
 	//HTabBar { anchors.fill: parent }
 	//HSwipeView { anchors.fill:parent }
 }

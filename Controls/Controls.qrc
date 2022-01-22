@@ -4,5 +4,6 @@
 <file>res/qml/HTabBar.qml</file>
 <file>res/qml/HSwipeView.qml</file>
 <file>res/qml/HDelayButton.qml</file>
+<file>res/qml/HDial.qml</file>
 </qresource>
 </RCC>
