@@ -4,6 +4,16 @@
 <file>res/qml/HTabBar.qml</file>
 <file>res/qml/HSwipeView.qml</file>
 <file>res/qml/HDelayButton.qml</file>
-<file>res/qml/HDial.qml</file>
+<file>res/qml/HDelayButton.qml</file>
+<file>res/qml/HDialog.qml</file>
+<file>res/qml/HDrawer.qml</file>
+<file>res/qml/HMenu.qml</file>
+<file>res/qml/HMenuBar.qml</file>
+<file>res/qml/HOverlay.qml</file>
+<file>res/qml/HSwipeView2.qml</file>
+<file>res/qml/HRangeSlider.qml</file>
+<file>res/qml/HScrollView.qml</file>
+<file>res/qml/HSpinBox.qml</file>
+<file>res/qml/HStackView.qml</file>
 </qresource>
 </RCC>
