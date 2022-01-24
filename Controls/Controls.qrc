@@ -2,7 +2,6 @@
 <qresource prefix="/">
 <file>res/qml/main.qml</file>
 <file>res/qml/HTabBar.qml</file>
-<file>res/qml/HSwipeView.qml</file>
 <file>res/qml/HDelayButton.qml</file>
 <file>res/qml/HDelayButton.qml</file>
 <file>res/qml/HDialog.qml</file>
@@ -15,5 +14,7 @@
 <file>res/qml/HScrollView.qml</file>
 <file>res/qml/HSpinBox.qml</file>
 <file>res/qml/HStackView.qml</file>
+<file>res/qml/HSwitch.qml</file>
+<file>res/qml/HToolTip.qml</file>
 </qresource>
 </RCC>

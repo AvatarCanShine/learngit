@@ -6,7 +6,9 @@ ApplicationWindow {
 	visible: true
 	width: 1280; height: 720
 	
-	HStackView { }
+	HToolTip { }
+	//HSwitch { }
+	//HStackView { }
 	//HSpinBox { }
 	//HScrollView { anchors.fill: parent }
 	//HRangeSlider { anchors.fill: parent }
