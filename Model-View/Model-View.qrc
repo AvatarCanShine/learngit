@@ -1,0 +1,9 @@
+<RCC>
+<qresource prefix="/">
+<file>res/qml/main.qml</file>
+<file>res/qml/Index_Model.qml</file>
+<file>res/qml/Array_Model.qml</file>
+<file>res/qml/List_Model.qml</file>
+<file>res/qml/List_Model2.qml</file>
+</qresource>
+</RCC>
